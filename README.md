@@ -19,7 +19,7 @@
 -  👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help.
   
-  <img width=150px src ="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
+  <img width=180px src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -48,4 +48,6 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=mattybravo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mattybravo)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=mattybravo&theme=material-palenight)](https://github.com/mattybravo)
+
+
 
